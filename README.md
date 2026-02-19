@@ -2,7 +2,7 @@
 
 🚀 Personal portfolio website showcasing my data analytics projects, skills, and services.
 
-🔗 Live Website: https://your-netlify-link.netlify.app
+🔗 Live Website: srajal-data-analyst.netlify.app
 
 ---
 
